@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T02:07:35.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="aWFX8QgeQAXzu3xJjMCF" version="22.0.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-02T02:08:29.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="f5cGd61iXfShJqpRDysc" version="22.0.8" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="DER ORIGINAL">
     <mxGraphModel dx="1900" dy="1666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -551,16 +551,16 @@
           <mxGeometry x="86" y="146" width="125" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NoBz114Fwssg4w4ElJxj-15" value="Sube disenios al catalogo de disenios" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="4GBxbwibSj7EmHAIKn39-1">
-          <mxGeometry x="80" y="341" width="125" height="74" as="geometry" />
+          <mxGeometry x="86" y="411" width="125" height="74" as="geometry" />
         </mxCell>
         <mxCell id="4GBxbwibSj7EmHAIKn39-3" value="Crea ordenes(vende)" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;fillColor=#647687;strokeColor=#314354;" vertex="1" parent="4GBxbwibSj7EmHAIKn39-1">
-          <mxGeometry x="82" y="238" width="125" height="70" as="geometry" />
+          <mxGeometry x="86" y="259" width="125" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4GBxbwibSj7EmHAIKn39-8" value="POD DASHBOARD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;" vertex="1" parent="4GBxbwibSj7EmHAIKn39-1">
           <mxGeometry x="79" y="2" width="126" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4GBxbwibSj7EmHAIKn39-10" value="Imprime Diseños(camisetas)" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="4GBxbwibSj7EmHAIKn39-1">
-          <mxGeometry x="86" y="481" width="125" height="74" as="geometry" />
+          <mxGeometry x="86" y="506" width="125" height="74" as="geometry" />
         </mxCell>
         <mxCell id="4GBxbwibSj7EmHAIKn39-12" value="Despacha ordenes" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="4GBxbwibSj7EmHAIKn39-1">
           <mxGeometry x="96" y="612" width="125" height="74" as="geometry" />
