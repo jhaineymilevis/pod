@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T00:08:33.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="RHO9QpQ3Q9MmS11_iIgO" version="22.0.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-02T00:08:46.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="TYKK8Rg49eOiZtlbsaSE" version="22.0.8" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="DIAGRAMA ORIGINAL">
     <mxGraphModel dx="1900" dy="1666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -447,10 +447,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="enPGKUM9T6Q_cOFXvGr_-10" value="las printzones son las diferentes areas en las que se peude imprimir en un pod_type, ejemplo: en&amp;nbsp; una camiseta se puede imprimir en la parte delantera, trasera, mangas, etc&lt;br&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="xj4MMqVDuvbluAutr-h8-1">
-          <mxGeometry x="-51" y="-919" width="164" height="161" as="geometry" />
+          <mxGeometry x="-19" y="-928" width="164" height="161" as="geometry" />
         </mxCell>
         <mxCell id="enPGKUM9T6Q_cOFXvGr_-11" value="print_zones" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;labelBackgroundColor=default;labelBorderColor=default;" vertex="1" parent="xj4MMqVDuvbluAutr-h8-1">
-          <mxGeometry x="-271" y="-913" width="212" height="149.39" as="geometry" />
+          <mxGeometry x="-250" y="-925" width="212" height="149.39" as="geometry" />
         </mxCell>
         <mxCell id="enPGKUM9T6Q_cOFXvGr_-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="enPGKUM9T6Q_cOFXvGr_-11">
           <mxGeometry y="30" width="212" height="29" as="geometry" />
