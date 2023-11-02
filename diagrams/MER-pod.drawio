@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T02:08:29.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="f5cGd61iXfShJqpRDysc" version="22.0.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-02T02:11:43.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="MY7U7LQV08zSoFSlxwOq" version="22.0.8" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="DER ORIGINAL">
     <mxGraphModel dx="1900" dy="1666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -517,7 +517,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="M5iF3l9SSYzyd_Rj3qhA" name="CASOS DE USO">
-    <mxGraphModel dx="1050" dy="566" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="943" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
