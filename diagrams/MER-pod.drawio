@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T23:17:56.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Q3LvFVfCdUF-3grV8sOx" version="22.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-08T23:18:35.526Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="O4qE1-OIfullHxV5xxQe" version="22.0.8" type="github" pages="5">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="DER ORIGINAL">
     <mxGraphModel dx="2140" dy="1666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -778,11 +778,6 @@
         <mxCell id="4xGZ9b8AYWjYIGE1V2BG-20" value="20000" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="3hrMj3iPZGXxGqdnQnSi-3">
           <mxGeometry x="87" y="380" width="733" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4xGZ9b8AYWjYIGE1V2BG-5" value="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="3hrMj3iPZGXxGqdnQnSi-3">
-          <mxGeometry width="800" height="30" relative="1" as="geometry">
-            <mxPoint x="1610" y="490" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4xGZ9b8AYWjYIGE1V2BG-21" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="3hrMj3iPZGXxGqdnQnSi-3">
           <mxGeometry x="87" y="490" width="733" height="90" as="geometry" />
         </mxCell>
@@ -793,7 +788,7 @@
           <mxGeometry x="77" y="150" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4xGZ9b8AYWjYIGE1V2BG-24" value="Save" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="3hrMj3iPZGXxGqdnQnSi-3">
-          <mxGeometry x="730" y="650" width="90" height="40" as="geometry" />
+          <mxGeometry x="730" y="760" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="n3xiVEdRATlYvdt_UGc4-4" value="LISTA DE POD TYPES - ADMIN / PROVEEDOR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="39" y="21" width="277" height="26" as="geometry" />
