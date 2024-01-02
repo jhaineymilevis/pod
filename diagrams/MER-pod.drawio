@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T14:16:28.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Ai91eLHVWIcbEYwNICYu" version="22.1.15" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-02T21:21:13.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PpPs2hbCIKc55dGMbauL" version="22.1.15" type="github" pages="6">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="DER ORIGINAL">
     <mxGraphModel dx="2140" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1015,7 +1015,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="V_z4uLDyd-zvH7LsahCO" name="CONTENEDORES">
-    <mxGraphModel dx="1843" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1518" dy="1824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1074,7 +1074,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" id="p9zlWrezCn_MatIt56Qe-4">
-          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.407;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="p9zlWrezCn_MatIt56Qe-2" edge="1" target="jjYCyBNnx8HZ2zzEUAUm-2">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.407;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="p9zlWrezCn_MatIt56Qe-2" target="jjYCyBNnx8HZ2zzEUAUm-2" edge="1">
             <mxGeometry width="240" relative="1" as="geometry">
               <mxPoint x="630" y="677.2" as="sourcePoint" />
               <mxPoint x="660.72" y="379.9999999999997" as="targetPoint" />
@@ -1089,10 +1089,10 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="jjYCyBNnx8HZ2zzEUAUm-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
-          <mxGeometry x="570" y="260" width="48" height="64" as="geometry" />
+        <mxCell id="jjYCyBNnx8HZ2zzEUAUm-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" parent="1" vertex="1">
+          <mxGeometry x="660" y="251" width="48" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="jjYCyBNnx8HZ2zzEUAUm-4" value="Dropi BD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="jjYCyBNnx8HZ2zzEUAUm-4" value="Dropi BD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="600" y="324" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
