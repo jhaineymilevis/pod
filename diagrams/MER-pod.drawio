@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T21:42:47.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4EIcN4t7q34JNoagN-2f" version="22.1.15" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-02T21:44:06.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Rps_JVaL7VGGg3mG-ggP" version="22.1.15" type="github" pages="7">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="DER ORIGINAL">
     <mxGraphModel dx="2140" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -189,7 +189,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DER NUEVO" id="g1BEx79rfv-5NFo7yYWh">
-    <mxGraphModel dx="2835" dy="3057" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2822" dy="2684" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="xj4MMqVDuvbluAutr-h8-0" />
         <mxCell id="xj4MMqVDuvbluAutr-h8-1" parent="xj4MMqVDuvbluAutr-h8-0" />
@@ -251,7 +251,7 @@
           <mxGeometry x="-775" y="-866" width="99" height="126" as="geometry" />
         </mxCell>
         <mxCell id="6vC1b3wF_2FrtxCGlfhA-0" value="disenio" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;labelBackgroundColor=default;labelBorderColor=default;" parent="xj4MMqVDuvbluAutr-h8-1" vertex="1">
-          <mxGeometry x="-580" y="-415" width="180" height="120" as="geometry" />
+          <mxGeometry x="-580" y="-415" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6vC1b3wF_2FrtxCGlfhA-1" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="6vC1b3wF_2FrtxCGlfhA-0" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -288,6 +288,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6vC1b3wF_2FrtxCGlfhA-9" value="precio" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="6vC1b3wF_2FrtxCGlfhA-7" vertex="1">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I4sxoMcy_fj43n5Gy5jE-0" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="6vC1b3wF_2FrtxCGlfhA-0">
+          <mxGeometry y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I4sxoMcy_fj43n5Gy5jE-1" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="I4sxoMcy_fj43n5Gy5jE-0">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I4sxoMcy_fj43n5Gy5jE-2" value="public (boolean)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="I4sxoMcy_fj43n5Gy5jE-0">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -525,6 +538,9 @@
         </mxCell>
         <mxCell id="QiTKMQxVK-ON733PPV3H-1" value="-PREGUNTAR A LUCHO:&lt;br&gt;-QUE PASA CON LOS PRODUCTOS QUE LLEVAN NOMBRES PERSONALIZADOS, EN QUE MOMENTO SE DISEÑA? AL MONTAR LA ORDEN?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#a20025;strokeColor=#6F0000;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;fontColor=default;labelBackgroundColor=default;labelBorderColor=default;" parent="xj4MMqVDuvbluAutr-h8-1" vertex="1">
           <mxGeometry x="-655" y="-1178" width="231" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="I4sxoMcy_fj43n5Gy5jE-3" value="asociacion del disenio con la plantilla (pod proudct)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="xj4MMqVDuvbluAutr-h8-1">
+          <mxGeometry x="-919" y="-629" width="99" height="126" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -785,7 +801,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="V_z4uLDyd-zvH7LsahCO" name="CONTENEDORES">
-    <mxGraphModel dx="1843" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2580" dy="2283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1158,7 +1174,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qbdcQK7eVgAr5cwIzZaq-8" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="30" width="740" height="560" as="geometry" />
+          <mxGeometry x="30" width="570" height="560" as="geometry" />
         </mxCell>
         <mxCell id="qbdcQK7eVgAr5cwIzZaq-9" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="qbdcQK7eVgAr5cwIzZaq-8">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
