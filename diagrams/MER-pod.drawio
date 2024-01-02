@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T21:42:31.556Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RTskoMctdOtu0JHBTZqv" version="22.1.15" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-02T21:42:38.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DziYX4O5LrbsCwY7vaFr" version="22.1.15" type="github" pages="7">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="DER ORIGINAL">
     <mxGraphModel dx="2140" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -870,7 +870,7 @@
         <mxCell id="jjYCyBNnx8HZ2zzEUAUm-4" value="Dropi BD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="600" y="324" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j4Ls89lqwaxnTl4CwhlG-1" value="tentativo un MONGO para al macenar todo la info de la orden en json, printzones, coordenadas, etc" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+        <mxCell id="j4Ls89lqwaxnTl4CwhlG-1" value="&lt;br&gt;un MONGO para al macenar todo la info de la orden en json, printzones, coordenadas, etc" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
           <mxGeometry x="1010" y="410" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HMxqygkaAKhCsC1Qb09B-2" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.json" vertex="1" parent="1">
