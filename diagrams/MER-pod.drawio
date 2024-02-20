@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T22:03:46.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="EMNMbIIUlfHNTBys0Ue7" version="23.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-20T22:04:40.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Kcfi-n3bNzEH51HvD0YZ" version="23.1.2" type="github" pages="7">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="DER ORIGINAL">
     <mxGraphModel dx="3430" dy="2144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1591,6 +1591,9 @@
             <mxPoint x="1240" y="2730" as="sourcePoint" />
             <mxPoint x="1290" y="2680" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5-wvWXEh-tt-6rUIg5-K-5" value="aqui debe ir del disenador de plantillas&lt;br&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+          <mxGeometry x="2390" y="1030" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
