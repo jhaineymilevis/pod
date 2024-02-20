@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T21:48:39.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="FZoQmej261FPliN4IHch" version="23.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-20T21:55:11.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="5dYOyk0AifYKTAYdcrk-" version="23.1.2" type="github" pages="7">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="DER ORIGINAL">
-    <mxGraphModel dx="2140" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3430" dy="2144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -189,7 +189,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DER NUEVO" id="g1BEx79rfv-5NFo7yYWh">
-    <mxGraphModel dx="3218" dy="2814" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3850" dy="3070" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="xj4MMqVDuvbluAutr-h8-0" />
         <mxCell id="xj4MMqVDuvbluAutr-h8-1" parent="xj4MMqVDuvbluAutr-h8-0" />
@@ -584,7 +584,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="M5iF3l9SSYzyd_Rj3qhA" name="CASOS DE USO">
-    <mxGraphModel dx="1985" dy="2026" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1518" dy="1783" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -666,13 +666,13 @@
             <mxPoint x="437" y="588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vWuB88P_xluS40G_KRkd-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vWuB88P_xluS40G_KRkd-1" target="vWuB88P_xluS40G_KRkd-4">
+        <mxCell id="vWuB88P_xluS40G_KRkd-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vWuB88P_xluS40G_KRkd-1" target="vWuB88P_xluS40G_KRkd-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vWuB88P_xluS40G_KRkd-1" value="Crea un disenio" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;fillColor=#647687;strokeColor=#314354;" vertex="1" parent="1">
+        <mxCell id="vWuB88P_xluS40G_KRkd-1" value="Crea un disenio" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;fillColor=#647687;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="586" y="185" width="125" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vWuB88P_xluS40G_KRkd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NoBz114Fwssg4w4ElJxj-9" target="vWuB88P_xluS40G_KRkd-1">
+        <mxCell id="vWuB88P_xluS40G_KRkd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NoBz114Fwssg4w4ElJxj-9" target="vWuB88P_xluS40G_KRkd-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="104" y="246" as="sourcePoint" />
             <mxPoint x="446" y="196" as="targetPoint" />
@@ -682,13 +682,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vWuB88P_xluS40G_KRkd-4" value="un disenio es una imagen. contiene nombre, precio , url , gategoria, publico(boolean)" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+        <mxCell id="vWuB88P_xluS40G_KRkd-4" value="un disenio es una imagen. contiene nombre, precio , url , gategoria, publico(boolean)" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
           <mxGeometry x="874" y="260" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="vWuB88P_xluS40G_KRkd-5" value="una plantilal es privada, repreenta el id del produto, pero cuando creo la orden puedo modificar la plantilal en tiempo real, en un jsonb debo almacenar toda la info de la plantilla al momento de crear la orden. puede tener uno o mas disenios" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+        <mxCell id="vWuB88P_xluS40G_KRkd-5" value="una plantilal es privada, repreenta el id del produto, pero cuando creo la orden puedo modificar la plantilal en tiempo real, en un jsonb debo almacenar toda la info de la plantilla al momento de crear la orden. puede tener uno o mas disenios" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
           <mxGeometry x="714" y="-99" width="200" height="299" as="geometry" />
         </mxCell>
-        <mxCell id="vWuB88P_xluS40G_KRkd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NoBz114Fwssg4w4ElJxj-12" target="vWuB88P_xluS40G_KRkd-5">
+        <mxCell id="vWuB88P_xluS40G_KRkd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NoBz114Fwssg4w4ElJxj-12" target="vWuB88P_xluS40G_KRkd-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="581" y="186" />
@@ -839,7 +839,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="V_z4uLDyd-zvH7LsahCO" name="CONTENEDORES">
-    <mxGraphModel dx="1843" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2580" dy="2213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -939,7 +939,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VmZQ_SkK0q9AOCCsfs1E" name="MOCKS - ADMIN">
-    <mxGraphModel dx="2345" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1843" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -963,9 +963,6 @@
         </mxCell>
         <mxCell id="4xGZ9b8AYWjYIGE1V2BG-20" value="20000" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="3hrMj3iPZGXxGqdnQnSi-3" vertex="1">
           <mxGeometry x="87" y="380" width="733" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4xGZ9b8AYWjYIGE1V2BG-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3hrMj3iPZGXxGqdnQnSi-3" source="4xGZ9b8AYWjYIGE1V2BG-21" target="4xGZ9b8AYWjYIGE1V2BG-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4xGZ9b8AYWjYIGE1V2BG-21" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="3hrMj3iPZGXxGqdnQnSi-3" vertex="1">
           <mxGeometry x="87" y="490" width="733" height="90" as="geometry" />
@@ -1201,13 +1198,13 @@
           <mxGeometry x="1210" y="760" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OVtuGkS8UQsXwVBexacn-1" value="AQUI DEBEN PARAMETRIZARSE LAS PRINTZONES" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
-          <mxGeometry x="2410" y="210" width="200" height="200" as="geometry" />
+          <mxGeometry x="2430" y="320" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="3qT17eBoHqpWUEMOFe64" name="MOCKS - DROPSHIPPER / SUPPLIER">
-    <mxGraphModel dx="1290" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1613" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
