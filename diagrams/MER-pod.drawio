@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T22:15:15.180Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="axQlga6_jK-rlSfht8rP" version="23.1.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-20T22:17:04.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="WSVDdDFHIBznZC0-tyjb" version="23.1.2" type="github" pages="8">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="DER ORIGINAL">
     <mxGraphModel dx="3430" dy="2144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1193,9 +1193,6 @@
           <mxGeometry y="1" width="120" height="40" relative="1" as="geometry">
             <mxPoint x="65" y="-59" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="HKYxghcY9hmjWvkxWgan-1" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="760" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OVtuGkS8UQsXwVBexacn-1" value="AQUI DEBEN PARAMETRIZARSE LAS PRINTZONES" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
           <mxGeometry x="2430" y="320" width="200" height="200" as="geometry" />
