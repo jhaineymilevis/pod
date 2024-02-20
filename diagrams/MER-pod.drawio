@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T21:55:11.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="5dYOyk0AifYKTAYdcrk-" version="23.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-20T21:56:44.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="HISa2RzMh1EyjYHmZx5J" version="23.1.2" type="github" pages="7">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="DER ORIGINAL">
     <mxGraphModel dx="3430" dy="2144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1521,9 +1521,6 @@
         <mxCell id="CXnoxthPsaKTdZSZsPg9-218" value="20000" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="CXnoxthPsaKTdZSZsPg9-212" vertex="1">
           <mxGeometry x="87" y="380" width="733" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CXnoxthPsaKTdZSZsPg9-219" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="CXnoxthPsaKTdZSZsPg9-212" source="CXnoxthPsaKTdZSZsPg9-220" target="CXnoxthPsaKTdZSZsPg9-218" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CXnoxthPsaKTdZSZsPg9-220" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="CXnoxthPsaKTdZSZsPg9-212" vertex="1">
           <mxGeometry x="87" y="490" width="733" height="90" as="geometry" />
         </mxCell>
@@ -1582,6 +1579,15 @@
         </mxCell>
         <mxCell id="CXnoxthPsaKTdZSZsPg9-236" value="Hacerlo publico" style="rounded=1;fillColor=#F0F2F5;strokeColor=#D8DCE3;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10;html=1;shadow=0;dashed=0" parent="CXnoxthPsaKTdZSZsPg9-212" vertex="1">
           <mxGeometry x="94" y="900" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="5-wvWXEh-tt-6rUIg5-K-2" value="en configuraciones el user parametriza a donde le llegan las devoluciones&lt;br&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+          <mxGeometry x="770" y="214" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="5-wvWXEh-tt-6rUIg5-K-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="5-wvWXEh-tt-6rUIg5-K-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="314" as="sourcePoint" />
+            <mxPoint x="640" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
