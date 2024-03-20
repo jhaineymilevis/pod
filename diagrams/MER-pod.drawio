@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T21:51:08.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="l2-BZZKF9AGEJv7AI448" version="24.0.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-20T21:51:54.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7vhfDQaTwp9kp7EgYE-V" version="24.0.7" type="github" pages="8">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="DER ORIGINAL">
     <mxGraphModel dx="6010" dy="3188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -775,7 +775,7 @@
           <mxGeometry x="874" y="260" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="vWuB88P_xluS40G_KRkd-5" value="una plantilal es privada, repreenta el id del produto, pero cuando creo la orden puedo modificar la plantilal en tiempo real, en un jsonb debo almacenar toda la info de la plantilla al momento de crear la orden. puede tener uno o mas disenios.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;el usuario tiene la opcion de hacerla publica, pero si la hace publica el que la usa no la puede modificar, debe usar los diseños que estan ahi&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
-          <mxGeometry x="702" y="-200" width="464" height="356" as="geometry" />
+          <mxGeometry x="706" y="-200" width="460" height="356" as="geometry" />
         </mxCell>
         <mxCell id="vWuB88P_xluS40G_KRkd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NoBz114Fwssg4w4ElJxj-12" target="vWuB88P_xluS40G_KRkd-5" edge="1">
           <mxGeometry relative="1" as="geometry">
