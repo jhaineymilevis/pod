@@ -823,6 +823,11 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-147" y="-2810" as="sourcePoint" />
             <mxPoint x="-47" y="-2910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-338" y="-3009" />
+              <mxPoint x="-394" y="-3056" />
+              <mxPoint x="-276" y="-3052" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="3GsIUNoQPdFr6VHclrSG-59" value="&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-bolsillero&lt;br&gt;-media carta&lt;br&gt;-tabloide&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="xj4MMqVDuvbluAutr-h8-1">
