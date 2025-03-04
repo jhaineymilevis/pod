@@ -189,7 +189,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DER NUEVO" id="g1BEx79rfv-5NFo7yYWh">
-    <mxGraphModel dx="2870" dy="3838" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3922" dy="4524" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="xj4MMqVDuvbluAutr-h8-0" />
         <mxCell id="xj4MMqVDuvbluAutr-h8-1" parent="xj4MMqVDuvbluAutr-h8-0" />
@@ -831,7 +831,7 @@
         <mxCell id="3GsIUNoQPdFr6VHclrSG-61" value="&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-delantera&lt;br&gt;-trasera&lt;br&gt;-manga&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="xj4MMqVDuvbluAutr-h8-1">
           <mxGeometry x="-518" y="-2000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3GsIUNoQPdFr6VHclrSG-63" value="&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-delantera: bolsillero, media carta, tabloide&lt;br&gt;-trasera:&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;bolsillero, media carta, tabloide&lt;/span&gt;&lt;span&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;-manga: bolsillero&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="xj4MMqVDuvbluAutr-h8-1">
+        <mxCell id="3GsIUNoQPdFr6VHclrSG-63" value="&lt;p style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-delantera: bolsillero, media carta, tabloide&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-trasera:&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;span&gt;&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;bolsillero, media carta, tabloide&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;-manga: bolsillero&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="xj4MMqVDuvbluAutr-h8-1">
           <mxGeometry x="-225" y="-1729" width="324" height="60" as="geometry" />
         </mxCell>
       </root>
