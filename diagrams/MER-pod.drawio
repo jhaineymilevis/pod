@@ -189,7 +189,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DER NUEVO" id="g1BEx79rfv-5NFo7yYWh">
-    <mxGraphModel dx="3182" dy="4035" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2942" dy="4035" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="xj4MMqVDuvbluAutr-h8-0" />
         <mxCell id="xj4MMqVDuvbluAutr-h8-1" parent="xj4MMqVDuvbluAutr-h8-0" />
@@ -985,10 +985,13 @@
         <mxCell id="D0H0qgkqpNbewbfKGCvj-5" value="PRECIO" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="xj4MMqVDuvbluAutr-h8-1">
           <mxGeometry x="483" y="-2702" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="D0H0qgkqpNbewbfKGCvj-7" value="-DELANTERA&lt;br&gt;-TRASERA&lt;br&gt;-BOLSILLO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xj4MMqVDuvbluAutr-h8-1">
+        <mxCell id="D0H0qgkqpNbewbfKGCvj-7" value="-DELANTERA&lt;br&gt;-TRASERA&lt;br&gt;-MANGA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xj4MMqVDuvbluAutr-h8-1">
           <mxGeometry x="732" y="-3112" width="258" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D0H0qgkqpNbewbfKGCvj-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xj4MMqVDuvbluAutr-h8-1" source="D0H0qgkqpNbewbfKGCvj-9" target="D0H0qgkqpNbewbfKGCvj-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D0H0qgkqpNbewbfKGCvj-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xj4MMqVDuvbluAutr-h8-1" source="D0H0qgkqpNbewbfKGCvj-9" target="D0H0qgkqpNbewbfKGCvj-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D0H0qgkqpNbewbfKGCvj-9" value="-BOLSILLERO&lt;div&gt;-MEDIA CARTA&lt;/div&gt;&lt;div&gt;-TABLOIDE&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="xj4MMqVDuvbluAutr-h8-1">
@@ -1002,6 +1005,24 @@
         </mxCell>
         <mxCell id="D0H0qgkqpNbewbfKGCvj-15" value="&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-bolsillero - DTG : $12.000&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-media carta - DTG: $15.000&amp;nbsp;&lt;br&gt;-media carta - BORDADO: $20.000&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;align=left;" vertex="1" parent="xj4MMqVDuvbluAutr-h8-1">
           <mxGeometry x="656" y="-2710" width="210" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="D0H0qgkqpNbewbfKGCvj-17" value="SIEMPRE TIENE QUE SER UN SOLO TAMANO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xj4MMqVDuvbluAutr-h8-1">
+          <mxGeometry x="233" y="-3026" width="279" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="D0H0qgkqpNbewbfKGCvj-19" value="SE DEBE DEFINIR QUE TAMANOS SE PUEDEN ESCOGER EN CADA AREA DE IMPRESION" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xj4MMqVDuvbluAutr-h8-1">
+          <mxGeometry x="864" y="-3042" width="530" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="D0H0qgkqpNbewbfKGCvj-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xj4MMqVDuvbluAutr-h8-1">
+          <mxGeometry x="1222" y="-2847" width="199" height="341" as="geometry" />
+        </mxCell>
+        <mxCell id="D0H0qgkqpNbewbfKGCvj-22" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="xj4MMqVDuvbluAutr-h8-1">
+          <mxGeometry x="1245" y="-2769" width="167" height="214" as="geometry" />
+        </mxCell>
+        <mxCell id="D0H0qgkqpNbewbfKGCvj-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="xj4MMqVDuvbluAutr-h8-1">
+          <mxGeometry x="1364" y="-2760" width="27" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="D0H0qgkqpNbewbfKGCvj-24" value="testo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xj4MMqVDuvbluAutr-h8-1">
+          <mxGeometry x="1298" y="-2595" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
