@@ -189,7 +189,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DER NUEVO" id="g1BEx79rfv-5NFo7yYWh">
-    <mxGraphModel dx="2942" dy="4035" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2735" dy="3910" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="xj4MMqVDuvbluAutr-h8-0" />
         <mxCell id="xj4MMqVDuvbluAutr-h8-1" parent="xj4MMqVDuvbluAutr-h8-0" />
@@ -1016,10 +1016,10 @@
           <mxGeometry x="1222" y="-2847" width="199" height="341" as="geometry" />
         </mxCell>
         <mxCell id="D0H0qgkqpNbewbfKGCvj-22" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="xj4MMqVDuvbluAutr-h8-1">
-          <mxGeometry x="1245" y="-2769" width="167" height="214" as="geometry" />
+          <mxGeometry x="1227" y="-2835" width="167" height="214" as="geometry" />
         </mxCell>
         <mxCell id="D0H0qgkqpNbewbfKGCvj-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="xj4MMqVDuvbluAutr-h8-1">
-          <mxGeometry x="1364" y="-2760" width="27" height="35" as="geometry" />
+          <mxGeometry x="1337" y="-2762" width="27" height="35" as="geometry" />
         </mxCell>
         <mxCell id="D0H0qgkqpNbewbfKGCvj-24" value="testo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xj4MMqVDuvbluAutr-h8-1">
           <mxGeometry x="1298" y="-2595" width="60" height="30" as="geometry" />
